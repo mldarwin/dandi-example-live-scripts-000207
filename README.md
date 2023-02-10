@@ -28,7 +28,7 @@ The following files are included in this repository to reproduce several subpane
   -  Figure 3j: `fig3j_reproduction.mlx`
 - Helper functions called within the core live script and/or live functions
   - Locate spikes within each cluster for the selected cell: `nwb_read_unit.m` 
-  - Plot lines with shaded error/confidence: `boundsboundedline.m` 
+  - Plot lines with shaded error/confidence: `boundedline.m` 
 
 ## Project Author
 [Marielle Darwin](https://github.com/mldarwin) 
