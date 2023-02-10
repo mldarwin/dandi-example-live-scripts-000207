@@ -13,7 +13,7 @@
 This is the repository for the [MATLAB Community Toolbox Training Project](https://www.incf.org/matlab-community-toolbox-training-projects) `dandi-example-live-scripts-000207`. Supported by [incf](https://www.incf.org/), this [MatNWB](https://github.com/NeurodataWithoutBorders/matnwb) data storytelling project replicated a subset of the figures found in the [Zheng et al. (2022) manuscript](https://www.nature.com/articles/s41593-022-01020-w) using the [Neurodata Without Borders (NWB)](https://www.nwb.org/) files available within the [DANDI open source dataset ID:00027](https://dandiarchive.org/dandiset/000207?search=00207&pos=1). Narrative text was added in the core live script to provide scientific context, motivation about the publication, and the specific results reproduced.
 
 ### Description of data utilized and code created 
-The code to convert the [NWB data](https://dandiarchive.org/dandiset/000207?search=00207&pos=1) was created with the [MatNWB interface library](https://github.com/NeurodataWithoutBorders/matnwb) to read and write NWB files with MATLAB. This code was used to analyze human single-neuron data that has determined the important role of cognitive boundaries in episodic memory formation. 
+The code to convert the [NWB data](https://dandiarchive.org/dandiset/000207?search=00207&pos=1) was created with the [MatNWB interface library](https://github.com/NeurodataWithoutBorders/matnwb) to read and write NWB files with [MATLAB](https://www.mathworks.com/products/matlab.html). This code was used to analyze human single-neuron data that has determined the important role of cognitive boundaries in episodic memory formation. 
 
 ## Requirements
 1. [MatNWB interface library](https://github.com/NeurodataWithoutBorders/matnwb)
