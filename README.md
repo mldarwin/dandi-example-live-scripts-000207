@@ -7,7 +7,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-*Last updated: 19 February 2023*
+*Last updated: 31 March 2023*
 
 ## Purpose and Project Goals
 This is the repository for the [MATLAB Community Toolbox Training Project](https://www.incf.org/matlab-community-toolbox-training-projects) `dandi-example-live-scripts-000207`. Supported by [incf](https://www.incf.org/), this [MatNWB](https://github.com/NeurodataWithoutBorders/matnwb) data storytelling project replicated a subset of the figures found in the [Zheng et al. (2022) manuscript](https://www.nature.com/articles/s41593-022-01020-w) using the [Neurodata Without Borders (NWB)](https://www.nwb.org/) files available within the [DANDI open source dataset ID:00027](https://dandiarchive.org/dandiset/000207?search=00207&pos=1). Narrative text was added in the core live script to provide scientific context, motivation about the publication, and the specific results reproduced.
